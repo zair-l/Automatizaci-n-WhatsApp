@@ -41,7 +41,7 @@ Pasos para ejecutar
 Clonar el repositorio:
 
 Bash
-git clone https://github.com/tu-usuario/cobrapp.git
+git clone https://github.com/zair-l/Automatizaci-n-WhatsApp.git
 cd cobrapp
 Levantar los servicios con Docker:
 
